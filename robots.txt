@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /fees.html
+Disallow: /privacy.html
+Sitemap: https://dmenglish.co.kr/sitemap.xml
